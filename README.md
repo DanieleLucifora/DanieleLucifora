@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td><strong>Framework & Tecnologie</strong></td>
-    <td>Spring Boot, gRPC, Kafka, LangChain, OMNeT++, .NET MAUI</td>
+    <td>Spring Boot, gRPC, Kafka, LangChain, .NET MAUI</td>
   </tr>
   <tr style="background-color:#f2f2f2">
     <td><strong>DevOps & Cloud</strong></td>
