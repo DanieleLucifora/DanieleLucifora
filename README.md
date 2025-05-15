@@ -8,30 +8,32 @@ Affronto ogni progetto con **problem solving**, **flessibilità**, **lavoro di s
 
 ## 🧠 Competenze Tecniche
 
-<p align="left">
-  <!-- Linguaggi -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
-
-  <!-- Framework e librerie -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET MAUI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-plain.svg" height="40" alt="gRPC"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" height="40" alt="Kafka"/>
-
-  <!-- DevOps e strumenti -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-</p>
+<table>
+  <tr style="background-color:#f2f2f2">
+    <td><strong>Linguaggi</strong></td>
+    <td>Java, Python, C++, C#, Kotlin</td>
+  </tr>
+  <tr>
+    <td><strong>Framework & Tecnologie</strong></td>
+    <td>Spring Boot, gRPC, Kafka, LangChain, OMNeT++, .NET MAUI</td>
+  </tr>
+  <tr style="background-color:#f2f2f2">
+    <td><strong>DevOps & Cloud</strong></td>
+    <td>Docker, Kubernetes, GitHub Actions, Jenkins, Terraform</td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>MySQL, PostgreSQL</td>
+  </tr>
+  <tr style="background-color:#f2f2f2">
+    <td><strong>Pattern Architetturali</strong></td>
+    <td>CQRS, Microservizi, Pub/Sub, REST APIs</td>
+  </tr>
+  <tr>
+    <td><strong>AI & Cognitive Computing</strong></td>
+    <td>Agenti Intelligenti, Sistemi Multi-Agente, NLP, Automazione</td>
+  </tr>
+</table>
 
 ---
 
