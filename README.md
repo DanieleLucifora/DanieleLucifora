@@ -1,7 +1,7 @@
 # 👋 Ciao, sono Daniele!
 
 🎓 Studente del Corso di Laurea Magistrale in **Ingegneria Informatica** presso l’Università degli Studi di Catania.  
-Appassionato di **DevOps**, **Intelligenza Artificiale** e sviluppo software backend. 
+Appassionato di **DevOps**, **Intelligenza Artificiale** e sviluppo software backend.  
 Affronto ogni progetto con **problem solving**, **flessibilità**, **lavoro di squadra** e una solida capacità di **gestione del tempo**, adattandomi con facilità al cambiamento.
 
 ---
@@ -19,7 +19,7 @@ Affronto ogni progetto con **problem solving**, **flessibilità**, **lavoro di s
   </tr>
   <tr style="background-color:#f2f2f2">
     <td><strong>DevOps & Cloud</strong></td>
-    <td>Docker, Kubernetes, GitHub Actions, Jenkins, Terraform</td>
+    <td>Docker, Kubernetes</td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
