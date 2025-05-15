@@ -8,23 +8,30 @@ Affronto ogni progetto con **problem solving**, **flessibilità**, **lavoro di s
 
 ## 🧠 Competenze Tecniche
 
-**Linguaggi**  
-`Java` · `Python` · `C++` · `C#` · `Kotlin`
+<p align="left">
+  <!-- Linguaggi -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
 
-**Framework & Tecnologie**  
-`Spring Boot` · `gRPC` · `Kafka` · `LangChain` · `OMNeT++` · `.NET MAUI`
+  <!-- Framework e librerie -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET MAUI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-plain.svg" height="40" alt="gRPC"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" height="40" alt="Kafka"/>
 
-**DevOps & Cloud**  
-`Docker` · `Kubernetes`
+  <!-- DevOps e strumenti -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 
-**Database**  
-`MySQL` · `PostgreSQL`
-
-**Pattern Architetturali**  
-`CQRS` · `Microservizi` · `Pub/Sub` · `REST APIs`
-
-**AI & Cognitive Computing**  
-Agenti Intelligenti · Sistemi Multi-Agente · NLP · Automazione
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+</p>
 
 ---
 
@@ -57,13 +64,6 @@ Gestionale per centro cinofilo sviluppato in `Java` con `Spring Boot`.
 - Gestione prenotazioni, clienti e animali
 - Interfaccia responsive
 - Ruoli utente e autenticazione sicura
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DanieleLucifora&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleLucifora&layout=compact&theme=radical)
 
 ---
 
